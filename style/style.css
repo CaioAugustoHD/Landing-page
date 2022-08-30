@@ -21,7 +21,27 @@ main{
 section{
     border: 1px solid red;
     width: 100%;
-    padding: 20px;
+    padding: 30px;
+}
+
+h2{
+    margin-bottom: 20px;
+}
+
+p {
+    margin: 20px 0;
+}
+
+span{
+    font-size: 2em;
+}
+
+button{
+    display: block;
+    margin: auto;
+    height: 30%;
+    width: 90%;
+    font-size: 1.3em;
 }
 
 h2, p {
