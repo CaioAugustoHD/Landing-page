@@ -4,7 +4,7 @@
     box-sizing: border-box;
     margin: 0;
     font-family: 'Karla', sans-serif;
-    Font size: 16px;
+    list-style: none;
 }
 
 body{
@@ -12,8 +12,18 @@ body{
 }
 
 main{
+    height: 100%;
+    background-color: aqua;
     display: flex;
     flex-wrap: wrap;
 }
 
+section{
+    border: 1px solid red;
+    width: 100%;
+    padding: 20px;
+}
 
+h2, p {
+    border: 1px solid blue;
+}
