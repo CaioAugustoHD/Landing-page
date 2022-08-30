@@ -8,11 +8,13 @@
 }
 
 body{
-    height: 100vh;
+    
 }
 
 main{
-    height: 100%;
+    max-width: 450px;
+    margin: auto;
+    min-height: 100vh;
     background-color: aqua;
     display: flex;
     flex-wrap: wrap;
