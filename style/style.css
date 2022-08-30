@@ -28,8 +28,18 @@ h2{
     margin-bottom: 20px;
 }
 
-p {
+p, li {
     margin: 20px 0;
+    font-size: 1.2em;
+}
+
+p.espacamento{
+    line-height: 1.3em;
+}
+
+li{
+    font-size: 1.1em;
+    margin: 7px;
 }
 
 span{
@@ -38,7 +48,7 @@ span{
 
 button{
     display: block;
-    margin: auto;
+    margin: 5% auto 5%;
     height: 30%;
     width: 90%;
     font-size: 1.3em;
