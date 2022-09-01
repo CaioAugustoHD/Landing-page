@@ -9,12 +9,13 @@
 
 body{
     background-color: hsl(204, 43%, 93%);
+    padding: 0.5vh 0;
 }
 
 main{
     max-width: 450px;
     margin: auto;
-    min-height: 100vh;
+    min-height: 99vh;
     background-color: rgb(255, 255, 255);
     display: flex;
     flex-wrap: wrap;
