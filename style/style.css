@@ -101,15 +101,10 @@ button:hover{
     box-shadow: 0 0 2px black;
 }
 
-/* h2, h1, p {
-    border: 1px solid blue;
-} */
 
-
-@media (min-width: 821px){
+@media (min-width: 830px){
     main{
-        max-height: 90vh;
-        min-height: 90vh;
+        min-height: 530px;
         max-width: 70%;
         margin: 5vh auto;
     }
