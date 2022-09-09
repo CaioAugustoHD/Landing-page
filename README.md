@@ -1,5 +1,5 @@
 <h1 align="center">PÁGINA DE INSCRIÇÃO</h1>
-<p align="center">Projeto de uma página de inscrição com layout responsivo pelo técnica "mobile first", usando HTML e CSS.</p>
+<p align="center">Projeto de uma página de inscrição com layout responsivo usando mobile first, com as tecnoçogias HTML e CSS.</p>
 
 ---
 
@@ -22,7 +22,7 @@ Esse projeto teve como principal objetivo aplicar a resposividade, para o layout
 
 
 ## Funcionalidades
-As principais funcionalidades do projeto é:
+A principal funcionalidade do projeto é:
 
 ✅ Layout resposivo a diversos tipos e tamanhos de tela.
 
@@ -41,16 +41,19 @@ As principais funcionalidades do projeto é:
 <img src="img/telapc.png" alt="Layout em computadores">
 
 ---
+<p align="center">Layout em computadores</p>
 <div align="center">
   <img src="img/telahub.png" alt="Computador com layout exibido">
 </div>
 
 ---
+<p align="center">Layout em tablets</p>
 <div align="center">
   <img src="img/telatablet.png" alt="Layout em tablets">
 </div>
 
 ---
+<p align="center">Layouts em smartphones</p>
 <div align="center">
   <img src="img/telacelular.png" alt="Layout em smartphones">
 </div>
@@ -65,7 +68,7 @@ Para abrir a página, basta apenas o uso de um navegador de sua preferência.
 
 
 ## Links
-* Acessar página: https://paginainscricao.netlify.app/
+* Deploy: https://paginainscricao.netlify.app/
 * Repositório: https://github.com/CaioAugustoHD/Pagina-inscricao
 
 
