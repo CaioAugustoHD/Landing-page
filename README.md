@@ -1,5 +1,5 @@
-<h1 align="center">PÁGINA DE INSCRIÇÃO</h1>
-<p align="center">Projeto de uma página de inscrição com layout responsivo usando mobile first, com as tecnoçogias HTML e CSS.</p>
+<h1 align="center">Landing page</h1>
+<p align="center">Projeto de uma landing page responsiva usando mobile first, com as tecnoçogias HTML e CSS.</p>
 
 ---
 
