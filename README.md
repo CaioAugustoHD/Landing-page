@@ -69,7 +69,7 @@ Para abrir a página, basta apenas o uso de um navegador de sua preferência.
 
 ## Links
 * Deploy: https://paginainscricao.netlify.app/
-* Repositório: https://github.com/CaioAugustoHD/Pagina-inscricao
+* Repositório: https://github.com/CaioAugustoHD/landing-page
 
 
 ## Autor
